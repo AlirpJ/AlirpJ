@@ -1,5 +1,5 @@
 ## :smile: Hello! Welcome to my GitHub profile. 
-I'm JP, a student at the Illinois Institute of Technology in Chicago. I'm studying Computer Science (BS) and Game Design (Minor). Feel free to connect with & communicate with me! :)
+I'm JP (Any Pronouns), a student at the Illinois Institute of Technology in Chicago. I'm studying Computer Science (BS) and Game Design (Minor). Feel free to connect with & communicate with me! :)
 
 
 # :computer: Tech
