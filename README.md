@@ -4,13 +4,10 @@ I'm JP, a student at the Illinois Institute of Technology in Chicago; I'm studyi
 
 # :computer: Tech
 I'm proficient in a variety of technologies, but they're all just tools to bring people together, enhance projects, and even tell stories. 
-- Python (NumPy, LoL API, Data Dragon)
+- Python (NumPy, LoL API, Data Dragon, MySQL)
 - JavaScript (React, Node, Discord.js, Spotify API)
-- Java
-- C#
-- SQL
-- Git
-- ...and many more
+- C# (Unity)
+- ...and many more!
 
 # :books: Experience & Projects
 Here are some teams and projects I've been on! I had a great time on all of these, and worked with so many amazing people!
