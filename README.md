@@ -1,6 +1,6 @@
 # JP
 
-## :simple_smile: Hello! Welcome to my GitHub profile. 
+## :smile: Hello! Welcome to my GitHub profile. 
 I'm a student at the Illinois Institute of Technology in Chicago; I'm studying Computer Science (BS) and Game Design (Minor). Feel free to connect with & communicate with me! :)
 
 
