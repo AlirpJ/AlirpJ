@@ -16,7 +16,7 @@ I'm proficient in a variety of technologies, but they're all just tools to bring
 
 # Experience & Projects
 Here are some teams and projects I've been on! I had a great time on all of these, and worked with so many amazing people!
-- WorldWideTechnology: Database maintenance automation, API rewritting
+- World Wide Technology: Database maintenance automation, API rewritting
 - Idea Shop: Web App and sign-in Kiosk API development/rewritting
 - Synesthesia: Spotify React App that pairs meals with tunes for optimal dining experiences
 - Backpat Tutoring: React and Firebase web developer
