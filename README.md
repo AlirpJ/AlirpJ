@@ -17,6 +17,4 @@ Here are some teams and projects I've been on! I had a great time on all of thes
 - Backpat Tutoring: React and Firebase web developer
 
 # :honey_pot: HoneyCo
-Last but *definitely* not least, check out my wonderful team over at HoneyCo!
-- https://github.com/HoneyCoGames
-- https://www.honeycogames.com/
+Last but *definitely* not least, check out my wonderful team over at [HoneyCo!](https://www.honeycogames.com/)
