@@ -4,7 +4,7 @@ I'm JP (Any Pronouns), a student at the Illinois Institute of Technology in Chic
 
 # :computer: Tech
 I'm always learning new technologies; I see them as varying tools to bring people together, enhance projects, and even tell stories. 
-- Python (NumPy, LoL API, Data Dragon, MySQL)
+- Python (NumPy, LoL API, Data Dragon, MySQL, GDScript)
 - JavaScript (React, Node, Discord, Spotify)
 - C# (Unity)
 - ...and many more!
