@@ -12,10 +12,11 @@ I'm always learning new technologies; I see them as varying tools to bring peopl
 
 # :books: Experience & Projects
 Here are some teams and projects I've been on! I had a great time on all of these, and worked with so many amazing people!
-- World Wide Technology: Database maintenance automation, API rewritting
-- Illinois Tech's Idea Shop: Web App and sign-in Kiosk API development/management
-- Synesthesia: Spotify React App that pairs meals with tunes for optimal dining experiences
-- Backpat Tutoring: React and Firebase web developer
+- World Wide Technology: Developer for database maintenance automation, API rewritting
+- Illinois Tech Real Time Communication Lab: Developer for Kamailio Server (EsiNet routing)
+- Illinois Tech's Idea Shop: Programmer for Web App and sign-in Kiosk API development/management
+- Backpat Tutoring: Developer for React and Firebase website
+- Synesthesia: Backend authentication programmer for Spotify React App that pairs meals with tunes for optimal dining experiences
 
 # :honey_pot: HoneyCo
 Last but *definitely* not least, check out my wonderful team over at [HoneyCo!](https://www.honeycogames.com/)
